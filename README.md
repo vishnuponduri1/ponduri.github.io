@@ -19,7 +19,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  sales.
  
  [Read full report](https://github.com/vishnuponduri1/impact-of-bigdata-on-gap-clothing)
- ![Gap clothing analysis](images/wda-1.png =250x250)
+ ![Gap clothing analysis](images/wda-1.png)
 
 
 
