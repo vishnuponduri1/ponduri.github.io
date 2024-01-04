@@ -10,17 +10,18 @@ the requirements of men, machinery, and material.
 levels assisting management in decision making which reduced 20% of the plannerâ€™s manhours.
 
 ## projects 
- ### Big data impact at Gap
+### Big data impact at Gap
  
  This project delves into the transformative decision by GAP Inc. to shift to a data-driven creative process. Analyzing customer reviews, product satisfaction, and 
  industry benchmarks, we assess the impact of this strategic move. Key findings emphasize the nuanced role of big data, advocating for a balanced approach that 
  integrates creative input for optimal results. The project structure includes data analysis scripts, results, and presentations, providing a comprehensive 
  understanding of the analysis process. With actionable insights, this case study guides companies like GAP toward enhanced customer satisfaction and increased 
  sales.
+ 
  [Read full report](https://github.com/vishnuponduri1/impact-of-bigdata-on-gap-clothing)
- (images/wda-1.png)
+ ![Gap clothing analysis](images/wda-1.png)
 
- ### Airbnb superhost criteria evaluation
+### Airbnb superhost criteria evaluation
  
  This Airbnb-focused project delves into critical business challenges to enhance decision-making for both hosts and the platform. The evaluation of Airbnb's 
  superhost status reveals that the current criteria show limited impact on bookings, prompting a proposal for restructuring to provide tangible monetary benefits 
@@ -30,7 +31,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  [Read full report](https://github.com/vishnuponduri1/Airbnb-superhost-criteria-evaluation)
  (images/airbnb-1.png) (images/airbnb-2.png) 
  
- ### Database development for a app - Darshan
+### Database development for a app - Darshan
  
  In the ever-evolving landscape of spiritual devotion, the Darshan App serves as a guiding beacon for India's spiritually inclined population. However, hindered by 
  its reliance on a legacy Microsoft Excel database, the app seeks a transformative upgrade through this project. The goal is to develop a sophisticated database 
@@ -41,7 +42,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  [Read full report](https://github.com/vishnuponduri1/database-creation-for-an-app)
  (images/ERD_Final.drawio.png)
  
- ### Sas optimisation for designing a balanced set of questions
+### Sas optimisation for designing a balanced set of questions
  
  This project aims to optimize the creation of two sets of 50-question papers for a professor, adhering to specific constraints. With 308 decision variables and 
  various constraints, the objective is to minimize the difference in easiness between the two sets while considering historical correctness percentages. 
@@ -50,7 +51,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  [Read full report](https://github.com/vishnuponduri1/optimisation-on-SAS-platform-to-create-balanced-question-paper)
  (images/sas-1.png)
  
- ### Machine learning techniques to minimise tunnel overbreak (common tunnelling problem)
+### Machine learning techniques to minimise tunnel overbreak (common tunnelling problem)
 
  The project focuses on analyzing and optimizing overbreak issues in drill and blast tunneling at a live site, RVNL Package 2 in Rishikesh. Utilizing Rock 
  Engineering Solution (RES), we developed an Overbreak Index and a predicting model validated on site data. Control blasting techniques, such as smooth blasting 
@@ -59,7 +60,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  [Read full report](https://github.com/vishnuponduri1/using-classic-machine-learning-to-counter-tunnelling-problems)
  (images/ob-1.png)
 
- ### health insurance pricing and risk analysis
+### health insurance pricing and risk analysis
  
  This health insurance cost analysis project delves into three datasetsâ€”Cardiovascular Diseases Risk Prediction, US Health Insurance, and Region-wise Obesity 
  Prevalenceâ€”to provide insights for insurance providers. The data story covers BMI sensitivity, state-wise patterns, and exploratory health analysis. Key concepts 
