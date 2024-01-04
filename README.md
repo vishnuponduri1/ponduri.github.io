@@ -31,7 +31,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  a tract and superhost-related interactions. The project suggests revising the superhost system alongside data-driven strategies to empower hosts, aiming for a 
  more lucrative and efficient platform while ensuring an improved and reliable service for Airbnb guests.
  [Read full report](https://github.com/vishnuponduri1/Airbnb-superhost-criteria-evaluation)
- (images/airbnb-1.png) (images/airbnb-2.png) 
+  ![Airbnb analysis](images/airbnb-1.png)  ![airbnb analysis](images/airbnb-2.png) 
  
 ### Database development for a app - Darshan
  
@@ -42,7 +42,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  database, ensuring precision and reliability. This project marks a crucial stride in Darshan's evolution, ushering in a modern database infrastructure to elevate 
  the spiritual journey for users.
  [Read full report](https://github.com/vishnuponduri1/database-creation-for-an-app)
- (images/ERD_Final.drawio.png)
+  ![Darshan app ERD](images/ERD_Final.drawio.png)
  
 ### Sas optimisation for designing a balanced set of questions
  
@@ -51,7 +51,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  Linearization techniques are employed for solvability, and assumptions include correlating low correctness with higher difficulty. The output provides the 
  professor with well-balanced question papers, enhancing the potential for automated computerized exams in the future.
  [Read full report](https://github.com/vishnuponduri1/optimisation-on-SAS-platform-to-create-balanced-question-paper)
- (images/sas-1.png)
+  ![Balanced set of questions](images/sas-1.png)
  
 ### Machine learning techniques to minimise tunnel overbreak (common tunnelling problem)
 
@@ -60,7 +60,7 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  and pre-splitting, were applied, resulting in a 4% to 13% reduction in overbreak. The study also considered factors like delay time, advancement factor, and 
  confinement factor, providing valuable insights for risk mitigation and improved tunneling practices
  [Read full report](https://github.com/vishnuponduri1/using-classic-machine-learning-to-counter-tunnelling-problems)
- (images/ob-1.png)
+  ![Overbreak analysis](images/ob-1.png)
 
 ### health insurance pricing and risk analysis
  
@@ -70,4 +70,4 @@ levels assisting management in decision making which reduced 20% of the plannerâ
  pricing, lifestyle encouragement, diabetes impact assessment, and region-specific policies. Despite dataset limitations, the project offers strategic insights for 
  refining insurance strategies and promoting healthier living.
  [Read full report](https://github.com/vishnuponduri1/health-insuarnce-pricing-and-risk-analysis)
- (images/Va-summary.png)
+ ![Health Insurance](images/Va-summary.png)
