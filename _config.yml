@@ -4,18 +4,14 @@ plugins:
 title: Vishnu Ponduri # your name (or website title) here
 logo: "/images/LinkedInDP.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
   <p align="center">
     MS Business Analytics, Purdue University
     <br>
     M.Tech, NIT Trichy
     <br><br>
-    <img src="images/linkedin_logo.png?raw=true" width="5%" height="5%"/>
     <a href="https://www.linkedin.com/in/vishnuponduri/">vishnulinkedin</a> 
     <br>
-    <img src="images/github_logo.png?raw=true" width="5%" height="5%"/>
     <a href="https://github.com/vishnuponduri1">pondurigithub</a> 
-    <br>
     <br>
     <img src="images/purdue.png?raw=true" width="30%" height="30%"/>
   </p>
