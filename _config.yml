@@ -1,25 +1,28 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Vishnu Ponduri # your name (or website title) here
 logo: "/images/LinkedInDP.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   <p align="center">
-    Master of Science Business Analytics and Information Managment, Purdue
+    MS Business Analytics, Purdue University
     <br>
-    M.Tech, Construction Technology and Managment NIT Trichy
+    M.Tech, NIT Trichy
     <br><br>
-    
-    <a href="https://www.linkedin.com/in/vishnuponduri/">linkedin|vishnu-1</a> 
+    <img src="images/linkedin_logo.png?raw=true" width="5%" height="5%"/>
+    <a href="https://www.linkedin.com/in/vishnuponduri/">vishnulinkedin</a> 
     <br>
-    
-    <a href="https://github.com/vishnuponduri1">github|ponduri-1</a> 
+    <img src="images/github_logo.png?raw=true" width="5%" height="5%"/>
+    <a href="https://github.com/vishnuponduri1">pondurigithub</a> 
     <br>
     <br>
-     <img src="images/purdue.png" width="30%" height="30%"/>
+    <img src="images/purdue.png?raw=true" width="30%" height="30%"/>
   </p>
-  <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
+  
   
 
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
+#google_analytics: G-3VMTJHPSDJ # your Google Analytics tracking ID here
