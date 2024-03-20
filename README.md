@@ -1,13 +1,18 @@
 # Business Analyst
 
-#### Technical Skills: SQL, Python, AWS, Tableau, SAS Procopt modelling
+#### Technical Skills: MySQL, Python, R, C, Tableau, Power BI, JIRA, SAS EM, SAS, Excel, PowerPoint, Minitab, Azure, AWS.
 
 ## Work Experience
+**Analytics Consultant Intern @ Kearney (_Jan 2024 - Present_)**
+•	Redesigned a domestic supply chain network for a leading automobile company to cater to the rise of demand, thereby developing the optimal location strategy resilient to market dynamics like labor and transportation.
+
 **Commerical Analyst @ Larsen & Toubro (_July 2021 - June 2023_)**
-- Scheduled the project timelines for the Mumbai Coastal Road, using Primavera P-6, and accordingly predicted 
-the requirements of men, machinery, and material.
-- Prepared interactive project monitoring dashboards in reporting about 25 KPIs on daily, weekly, and monthly
-levels assisting management in decision making which reduced 20% of the planner’s manhours.
+•	Developed project monitoring dashboards to report 15 budget and schedule KPIs daily, weekly, and monthly. This supported management decision-making and reduced the planner's hours by 20%.
+•	Created and managed project timelines for a large-scale engineering project using ERP tools, leading to a 13% improvement in forecasting material schedules which led to an 8% reduction in procurement costs.
+•	Analyzed historical trends of similar commercial mining projects to estimate manpower for differing activities using multiple linear regression which successfully helped in the reduction of excess labor by 8%.
+•	Assisted a cross-functional team of 4 in implementing an automation of a manual process in tunnel mining which resulted in a reduction of the cycle time of tunnel boring by 20%.
+•	Led a team of 5 in implementing data envelopment analysis techniques to assess resource efficiency across 6 different sites and identified potential monetary opportunities spanning from $150k to $1M annually.
+
 
 ## projects 
 ### Big data impact at Gap
