@@ -94,5 +94,17 @@ Project link :[detail summary](https://drive.google.com/file/d/1yakqO2f-OjMH1ENZ
 [Youtube video of the solution](https://youtu.be/wtrAa9xOLy8)
 ![Winning model](images/winning-model.png)
 
+ **Multivariate-Time-Series-Forecasting-Evaluating-Price-Prediction-of-Cryptocurrencies**
+
+The goal of this project is to predict Bitcoin returns for a 15-minute interval from the current period, both independently and in conjunction with other major cryptocurrencies such as Ethereum and ESO.IO. Through exploratory data analysis, data preprocessing techniques, and the utilization of LSTM models, we delve into the complexities of cryptocurrency price movements in an effort to anticipate Bitcoin's short-term returns.
+The main objective is to forecast the 15-minute returns of cryptocurrencies from the present period using the following approaches:
+
+Bitcoin data alone. A combination of Bitcoin and Ethereum data. A combination of Bitcoin and EOS.IO data. This initiative aims to examine how incorporating multiple cryptocurrencies with different co-relations affects the accuracy of Bitcoin return predictions.
+
+As expected, a diverse set of stocks were able to generalise the model better than the model only with co-related stocks. Increase in sequence length did not necessarily decrease the prediction error. 
+![image](https://github.com/vishnuponduri1/ponduri.github.io/assets/155207236/5c9f9b8e-7fbc-410f-8c74-a9e1ea97746a)
+
+
+
 
 
