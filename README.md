@@ -92,4 +92,4 @@ Our project team, known as 'Green Light District', achieved the 1st position out
 Project link :[detail summary](https://drive.google.com/file/d/1yakqO2f-OjMH1ENZZ2cYGzTCRkplojQA/view?usp=sharing)
 
 [Youtube video of the solution](https://youtu.be/wtrAa9xOLy8)
-![Winning model](images/Va-summary.png)
+![Winning model](images/Screenshot 2024-04-20 015702.png)
