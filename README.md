@@ -89,6 +89,6 @@ In this endeavor, we utilized predictive analytics to transform the approach to 
 
 Our project team, known as 'Green Light District', achieved the 1st position out of 51 competing teams in the Kaggle competition as part of the 'Crossroads Classic Analytics Challenge 24', attaining a prediction accuracy of 98.682% (https://www.kaggle.com/competitions/crossroads-classic-analytics-challenge-24/leaderboard). Furthermore, we secured the 2nd position state wide in the finals held at NCAA headquarters. In the same competition we won 1st price in the state for the best presenation and visualisations.
 
-Project link :[detail summary]https://drive.google.com/file/d/1yakqO2f-OjMH1ENZZ2cYGzTCRkplojQA/view?usp=sharing
+Project link :[detail summary](https://drive.google.com/file/d/1yakqO2f-OjMH1ENZZ2cYGzTCRkplojQA/view?usp=sharing)
 
-[Youtube video of the solution] : https://youtu.be/wtrAa9xOLy8
+[Youtube video of the solution](https://youtu.be/wtrAa9xOLy8)
