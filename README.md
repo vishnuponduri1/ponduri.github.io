@@ -83,7 +83,7 @@
  [Read full report](https://github.com/vishnuponduri1/health-insuarnce-pricing-and-risk-analysis)
  ![Health Insurance](images/Va-summary.png)
 
- ### **NCAA Basketball ticket purchase analysis**
+  **NCAA Basketball ticket purchase analysis**
 
 In this endeavor, we utilized predictive analytics to transform the approach to ticket sales for Women’s NCAA Basketball. Our analysis was centered on predicting purchasing patterns to boost ticket sales, merging customer data with external datasets to ensure precision. Our objective was to create predictive models that identify customer ticket purchases and whether they originate from the primary or secondary market. The initiative was designed to maximize revenue, streamline operations, and enhance the fan experience. By conducting thorough data preprocessing and employing advanced modeling techniques utilizing algorithms such as CatBoost and XGBoost, we developed strategies to improve loyalty programs and customer service. The project holds the potential for significant benefits to the NCAA, laying the groundwork for an integrated app-based system for user feedback and an enhanced overall experience.
 
