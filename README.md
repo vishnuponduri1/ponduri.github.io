@@ -7,7 +7,7 @@
 
 •	Redesigned a domestic supply chain network for a leading automobile company to cater to the rise of demand, thereby developing the optimal location strategy resilient to market dynamics like labor and transportation.
 
-**Commerical Analyst @ Larsen & Toubro (_July 2021 - June 2023_)**
+**Operations Analyst @ Larsen & Toubro (_July 2021 - June 2023_)**
 
 •	Developed project monitoring dashboards to report 15 budget and schedule KPIs daily, weekly, and monthly. This supported management decision-making and reduced the planner's hours by 20%.
 
