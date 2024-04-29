@@ -79,7 +79,7 @@
  Prevalence—to provide insights for insurance providers. The data story covers BMI sensitivity, state-wise patterns, and exploratory health analysis. Key concepts 
  include BMI distribution, color-coded gender-based BMI analysis, state-wise heatmaps, and average claims comparison. Recommendations focus on gender-based 
  pricing, lifestyle encouragement, diabetes impact assessment, and region-specific policies. Despite dataset limitations, the project offers strategic insights for 
- refining insurance strategies and promoting healthier living.
+ refining insurance strategies and promoting healthier living
  [Read full report](https://github.com/vishnuponduri1/health-insuarnce-pricing-and-risk-analysis)
  ![Health Insurance](images/Va-summary.png)
 
