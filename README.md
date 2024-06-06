@@ -1,4 +1,4 @@
-# Engineering Operations Analyst
+# Business Operations Analyst
 
 #### Technical Skills: MySQL, Python, R, C, Tableau, Power BI, JIRA, SAS EM, SAS, Excel, PowerPoint, Minitab, Azure, AWS.
 
